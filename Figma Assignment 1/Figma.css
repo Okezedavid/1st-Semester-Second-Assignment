@@ -1,12 +1,6 @@
 body {
   background: #f7fdfc;
 }
-/* FOR EVERYTHING */
-
-/* .EVERYTHING {
-  display: flex;
-  padding: 150px;
-} */
 
 /* FOR LEFT PART */
  
@@ -206,7 +200,7 @@ button {
 
 /* MEDIA QUERY */
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 450px) {
  .firstpart-1 {
   display: grid;
   width: 100%;
